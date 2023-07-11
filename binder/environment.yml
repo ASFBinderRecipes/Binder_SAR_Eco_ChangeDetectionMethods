@@ -21,7 +21,7 @@ dependencies:
   - plotly
   - pycrs
   - pyproj
-  - python=3.9
+  # - python=3.9
   - rasterio
   - rioxarray
   - s3fs
@@ -29,7 +29,7 @@ dependencies:
   - scipy
   - shapely
   - statsmodels
-  - traitlets==5.1.1
+  # - traitlets==5.1.1
   - xarray
   - zarr
   - pip:
